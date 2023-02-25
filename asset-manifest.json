@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/glassmorphism/static/css/main.e87e1a2e.css",
+    "main.js": "/glassmorphism/static/js/main.a13aa69e.js",
+    "static/js/787.ed61067d.chunk.js": "/glassmorphism/static/js/787.ed61067d.chunk.js",
+    "static/media/bg.jpg": "/glassmorphism/static/media/bg.c83f8436acd82b708fba.jpg",
+    "static/media/github.svg": "/glassmorphism/static/media/github.04be58c17b3d5e9744424d414240dd85.svg",
+    "index.html": "/glassmorphism/index.html",
+    "main.e87e1a2e.css.map": "/glassmorphism/static/css/main.e87e1a2e.css.map",
+    "main.a13aa69e.js.map": "/glassmorphism/static/js/main.a13aa69e.js.map",
+    "787.ed61067d.chunk.js.map": "/glassmorphism/static/js/787.ed61067d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87e1a2e.css",
+    "static/js/main.a13aa69e.js"
+  ]
+}
